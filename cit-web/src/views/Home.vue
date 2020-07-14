@@ -37,7 +37,7 @@ export default {
     const GenerateInTokenUrl = `https://api.powerbi.com/v1.0/myorg/groups/${groupId}/reports/${reportId}/GenerateToken`;
 
     axios
-      .get("/api/token/")
+      .get("http://localhost/api/token/")
       .then(result => {
         const receivedAccessToken = result.data.access_token;
 
