@@ -97,7 +97,7 @@ In Files -> Settings -> Workspace -> Open Settings
 
 It is recommended that the Workspace is the `cit-web` folder, and not the `cit` project for this to behave correctly. Otherwise, it won't read the ESLint & Prettier config files properly (VSCode expects them in root workspace by default).
 
-## Deployment
+## Deployment (Also may apply to development)
 
 We are currently using the **Service Principal** method to deploy PowerBI onto the website. A Service Principal is the `local representation` of a global application object. In other words, Service Principal is a concrete instance from the application object and inherits certain properties from that application object. This means that we first need an **Application Object** to use a Service Principal.
 
