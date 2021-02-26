@@ -2,8 +2,9 @@
 
 ## An Open Souce Data Pipeline
 
-![mobile cit](MOBILE Data Web Service.png)
-![destop cit](DESKTOP Data Web Service.png)
+![mobile cit](./MOBILE Data Web Service.png)
+
+![destop cit](./DESKTOP Data Web Service.png)
 
 ## Installation
 
